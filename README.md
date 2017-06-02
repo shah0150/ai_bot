@@ -57,7 +57,7 @@ Let’s go ahead and install both packages by running the following command
 ```
 npm install --save botbuilder api-ai-recognizer
 ```
-# Create a baisc echo bot
+# Create a basic echo bot
 
 So in this step we will create a very basic bot that will just echo what we say. It’s pretty dumb but it’s a start and in the next steps we will build on top of it.
 
